@@ -1,14 +1,14 @@
 ---
-title: "About"
+title: "Lab Members"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## PI
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## Postdocs 
 
  - supports dark mode on macOS Mojave
  - optional sidebar
@@ -20,8 +20,9 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
  - responsive
  - syntax highlighting
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Lab Manager
 
-## Based on
+## PhD Candidates
 
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
