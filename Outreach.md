@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Outreach"
+title: ""
 ---
 
 # In my role as a PI, I see the following aspects as my top priorities
