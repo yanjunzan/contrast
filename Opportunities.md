@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 ---
 
 ## Join the lab
