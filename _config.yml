@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Events }
   - {file: "Publications.md", title: Publications}
   - {file: "Resources.md", title: Resources}
+  - {file: "Outreach.md", title: Outreach}
   - {file: "Opportunities.md", title: Opportunities}
   - {file: "Contact.md", title: Contact}
 
