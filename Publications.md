@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lab philosophy"
+title: "Publications"
 ---
 ## Featured studies
 * Method development
