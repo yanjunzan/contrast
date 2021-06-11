@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Opportunities"
 ---
 
 ## Join the lab
