@@ -1,6 +1,6 @@
 title: "Complex Trait Genetics"
 author: "Zan Lab"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Swedish University of Agriculture Sciences"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,16 +9,18 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-  - {file: "CV_yanjunzan.pdf"}
+  - {file: "index.html",icon:Home}
+  - {file: "README.md",icon:About}
+  - {file: "CV_yanjunzan.pdf",icon:Members}
+  - {file: "CV_yanjunzan.pdf",icon:Publications}
+  - {file: "CV_yanjunzan.pdf",icon:Tools and Resources}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yanjun_zan@aliyun.com"}
