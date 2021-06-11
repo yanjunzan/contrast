@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Test](/assets/Untitled.001.jpeg))
+![Test](/assets/Untitled.001.jpeg#left)
 
 ## MathJax
 
