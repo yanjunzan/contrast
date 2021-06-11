@@ -1,4 +1,4 @@
-title: "Complex Trait Genetics"
+title: "Complex Trait Genetics Zan Lab"
 author: "Zan Lab"
 description: "Swedish University of Agriculture Sciences"
 permalink: /:title/
@@ -17,10 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html",icon:Home}
-  - {file: "README.md",icon:About}
-  - {file: "CV_yanjunzan.pdf",icon:Members}
+  - {file: "README.md",icon:Family}
+  - {file: "CV_yanjunzan.pdf",icon: Research }
   - {file: "CV_yanjunzan.pdf",icon:Publications}
   - {file: "CV_yanjunzan.pdf",icon:Tools and Resources}
+  - {file: "CV_yanjunzan.pdf",icon:Lab Philosophy}
+  - {file: "CV_yanjunzan.pdf",icon:Join Us}
+  - {file: "CV_yanjunzan.pdf",icon:Contact Us}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yanjun_zan@aliyun.com"}
