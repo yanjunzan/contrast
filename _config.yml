@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_yanjunzan.pdf",title: Research }
   - {file: "CV_yanjunzan.pdf",title: Publications}
   - {file: "CV_yanjunzan.pdf",title: Resources}
-  - {file: "CV_yanjunzan.pdf",title: Lab Philosophy}
+  - {file: "CV_yanjunzan.pdf",title: Philosophy}
   - {file: "CV_yanjunzan.pdf",title: Opportunities}
   - {file: "CV_yanjunzan.pdf",title: Contact Us}
 
