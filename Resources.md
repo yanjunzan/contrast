@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 ---
 
 ## A high throughput cost efficient whole genome sequencing library prep protocal (not-peer reviewed)
