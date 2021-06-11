@@ -10,3 +10,9 @@ title: "Outreach"
 * Engaging the scientific community 
 
 * Engaging the society, industry and stakeholders
+
+# To achieve this mission 
+
+* I have started to communicate my work and experience in the field through social media
+
+{% include embed.html url="https://www.bilibili.com/video/BV1p5411L77q" %}
