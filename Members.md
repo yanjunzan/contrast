@@ -1,5 +1,5 @@
 ---
-title: "Lab Members"
+title: ""
 permalink: "/about/"
 layout: page
 ---
