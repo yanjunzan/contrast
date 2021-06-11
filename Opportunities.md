@@ -15,5 +15,5 @@ Our expertise covers:
 * Application of computer vision in plant phenomics
 
 ## Contact us 
-Please find our contacting information by clicking the contact icon
+Please find our contacting information by clicking the [contact](https://yanjunzan.github.io/Contact/)
 
