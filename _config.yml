@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Home.md", title: Home }
   - {file: "README.md", title: Members}
   - {file: "Philosophy.md", title: Philosophy}
-  - {file: "index.html", title: Events }
+  - {file: "Events.html", title: Events }
   - {file: "Publications.md", title: Publications}
   - {file: "Resources.md", title: Resources}
   - {file: "Outreach.md", title: Outreach}
