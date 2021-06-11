@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 ---
 ## Featured studies
 * Method development
