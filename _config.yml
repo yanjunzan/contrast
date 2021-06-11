@@ -20,10 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: Members}
   - {file: "Philosophy.md", title: Philosophy}
   - {file: "index.html", title: Events }
-  - {file: "CV_yanjunzan.pdf", title: Publications}
-  - {file: "CV_yanjunzan.pdf", title: Resources}
-  - {file: "CV_yanjunzan.pdf", title: Opportunities}
-  - {file: "CV_yanjunzan.pdf", title: Contact}
+  - {file: "Publications.md", title: Publications}
+  - {file: "Resources.md", title: Resources}
+  - {file: "Opportunities.md", title: Opportunities}
+  - {file: "Contact.md", title: Contact}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yanjun_zan@aliyun.com"}
