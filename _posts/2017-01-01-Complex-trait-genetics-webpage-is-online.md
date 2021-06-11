@@ -7,7 +7,9 @@ categories: media
 
 {% include module.html image_path="/assets/Untitled.001.jpeg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
-![Test](/assets/Untitled.001.jpeg){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
+![Test](/assets/Untitled.001.jpeg){: style="float: left"; margin-right: 10em; height="25%" width="25%"} differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.
+
+differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.differential equation is the fundamental equation of calculus of variations.
 
 
 ## MathJax
