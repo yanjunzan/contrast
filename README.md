@@ -5,96 +5,19 @@ layout: page
 ---
 
 ## PI
+![Test](/assets/Yanjun.jpeg){: style="float: left"; margin-right: 10em; height="25%" width="25%"} 
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;瑞典乌普萨拉大学博士、瑞典农业科学大学博士后，主要研究方向是复杂数量性状的遗传和进化机制，主要通过计算生物学方法创新与多组学数据分析，探究个体基因型、个体表型与环境三者之间的关系，为动植物遗传改良、人类疾病诊断和预测提供理论和方法基础。\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(A) 在实验流程计算生物学方法创新方面：开发了一个仅用10元人民币就能高通量构建测序文库的方法,实现了超低成本二代全基因组建库; 建立了基于超低覆盖度的基因型填充方法，把育种群体重测序成本降低了近10倍; 建立了整合转录组和表型组的多基因性状定位方法，实现了已知分子生物学信息和多组学数据的有效整合, 提高了多基因性状定位的统计功效; 建立了挪威云杉的50K基因芯片，为针叶树全基因组选育奠定了基础。\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(B) 在复杂数量性状的遗传和进化机制解析方面：以拟南芥的开花、家鸡的体重、酵母的生长为模型，首次发现环境是通过影响基因互作网络来间接影响个体的表型以及群体水平的遗传参数，发现了基因型之间和以及基因
+型环境三方互作在复杂数量性状的变异和局部适应性中的重要作用，从而在基因、个体和群体的多尺度水平阐释了多基因性状在自然选择和人工选择过程中的遗传和适应性进化机制。为进一步构建动植物全基因组选育、精准
+医疗个体诊断统计模型、研究物种局部适应性以及气候变化的自然选择下群体的长期进化潜力提供了理论和方法基础。\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现主持瑞典环境农业科学与空间规划研究理事会（Formas-Mobility Grant For Early Career Researcher）项目一项 (230万RMB)，累计发表文章SCI文章18篇，其中第一作者、共同第一作者（排名第一）或通讯作者文章共10篇, 包括 《Molecular Biology and Evolution》（共2篇，IF2017-2019=12，中科院一区Top）、《Molecular Ecology Resources》（2篇, IF2017-2019=6.7，中科院一区Top）、《PLoS Genetics》（一作兼通讯, IF2017-2019=5.5，中科院二区Top）、《Genetics Selection Evolution》(1篇, IF2017-2019=3.4，中科院二区Top）、《BMC Genomics》（1篇, IF2017-2019=3.6，中科院二区Top）、《G3-Genes Genetics Genomics》（共2篇, IF2017-2019=2.7，中科院三区），累计影响因子近55。开发计算生物学R软件包、生物信息学Pipeline 3个，多次在国际学术会议报告、特邀报告上与国内外同行进行了广泛
+的学术交流。
 
-## Postdocs 
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-## Lab Manager
+## Lab Managers 
 
-## PhD Candidates
+## PhD and Master students
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+## Former members
