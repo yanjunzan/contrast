@@ -16,14 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html",icon:Home}
-  - {file: "README.md",icon:Family}
-  - {file: "CV_yanjunzan.pdf",icon: Research }
-  - {file: "CV_yanjunzan.pdf",icon:Publications}
-  - {file: "CV_yanjunzan.pdf",icon:Tools and Resources}
-  - {file: "CV_yanjunzan.pdf",icon:Lab Philosophy}
-  - {file: "CV_yanjunzan.pdf",icon:Join Us}
-  - {file: "CV_yanjunzan.pdf",icon:Contact Us}
+  - {file: "index.html", title: Home }
+  - {file: "README.md",title: Family}
+  - {file: "CV_yanjunzan.pdf",title: Research }
+  - {file: "CV_yanjunzan.pdf",title: Publications}
+  - {file: "CV_yanjunzan.pdf",title: Tools and Resources}
+  - {file: "CV_yanjunzan.pdf",title: Lab Philosophy}
+  - {file: "CV_yanjunzan.pdf",title: Join Us}
+  - {file: "CV_yanjunzan.pdf",title: Contact Us}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yanjun_zan@aliyun.com"}
