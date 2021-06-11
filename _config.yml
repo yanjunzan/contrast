@@ -17,13 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Home.md", title: Home }
-  - {file: "README.md",title: Members}
-  - {file: "CV_yanjunzan.pdf",title: Philosophy}
-  - {file: "index.html",title: Events }
-  - {file: "CV_yanjunzan.pdf",title: Publications}
-  - {file: "CV_yanjunzan.pdf",title: Resources}
-  - {file: "CV_yanjunzan.pdf",title: Opportunities}
-  - {file: "CV_yanjunzan.pdf",title: Contact}
+  - {file: "README.md", title: Members}
+  - {file: "CV_yanjunzan.pdf", title: Philosophy}
+  - {file: "index.html", title: Events }
+  - {file: "CV_yanjunzan.pdf", title: Publications}
+  - {file: "CV_yanjunzan.pdf", title: Resources}
+  - {file: "CV_yanjunzan.pdf", title: Opportunities}
+  - {file: "CV_yanjunzan.pdf", title: Contact}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yanjun_zan@aliyun.com"}
