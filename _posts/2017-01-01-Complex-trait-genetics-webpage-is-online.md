@@ -4,7 +4,8 @@ mathjax: true
 layout: post
 categories: media
 ---
-{% include module.html image_path="/assets/Untitled.001.jpeg" title="Some title text" description="Some more text that will appear to the left of the image." %}
+
+{% include /_includes/module.html image_path="/assets/Untitled.001.jpeg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
 ![Test](/assets/Untitled.001.jpeg){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
 
