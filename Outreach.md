@@ -19,7 +19,7 @@ title: ""
 * Advocate science and how general public could contribute a better world [Bilibili](https://www.bilibili.com/video/BV1qK4y1U7ph/)
 
 
-{% include embed.html url="https://www.bilibili.com/video/BV1p5411L77q" %}
+{% include embed.html url="https://www.bilibili.com/video/BV1uv4y1f7sq/" %}
 
 
 # My vision for group dynamics
