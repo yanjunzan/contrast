@@ -47,7 +47,7 @@ title: ""
 * Wang X; Liu S; Zuo H; Zheng W; Zhang S; Huang Y; Pingcuo G; Ying H; Zhao F; Li Y; Yi T; <b>Zan Y</b>; Larkin M R; Deng X; Zeng X, Xu Q, Genomic basis of high-altitude adaptation in Tibetan Prunus fruit tree, 2021, (Accepted in Current Biology, IF2017-2019=9.3，中科院一区Top)
 * Guo Y, Ou J, <b>Zan Y</b>, et al, Researching on the fine structure and admixture of the
 worldwide chicken population reveal connections between populations and important events in breeding history, Evolutionary Applications. 2021 (IF2017-2019=4.5, 中科院二区)
-* Ji Y, Lehotai N, <b>Zan Y, et al. A fully assembled plastid‐encoded RNA polymerase complex detected in etioplasts and proplastids in Arabidopsis, Physiologia Plantarum. 2021, Mar 435-446. doi: 10.1111/ppl.13256 (IF2017-2019=3.2，中科院二区).
+* Ji Y, Lehotai N, <b>Zan Y</b>, et al. A fully assembled plastid‐encoded RNA polymerase complex detected in etioplasts and proplastids in Arabidopsis, Physiologia Plantarum. 2021, Mar 435-446. doi: 10.1111/ppl.13256 (IF2017-2019=3.2，中科院二区).
 
 ### 2020
 * Yang Y, <b>Zan Y</b>, et al. Haplotype Purging After Relaxation of Selection in Lines of Chickens that Had Undergone Long-Term Selection for High and Low Body Weight, Genes, 2020, 11(6), 630 (IF2017-2019=3.4，中科院三区).
