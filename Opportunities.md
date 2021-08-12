@@ -11,7 +11,7 @@ Therefore, I personally <b>do not</b> require new members to know everything bef
 
 ## Collaborating with us
 
-We are a group of geneticists and data science geeks who are <b>always</b> eager to collaborate with you, no matter you are a web-lab scientist or a industry partners.\
+We are a group of geneticists and data science geeks who are <b>always</b> eager to <b>collaborate with you</b>, no matter you are a <b>web-lab scientist, computational scientist or a industry partners</b>.
 Our expertise covers:
 * Bioinformatics
 * Computational Genetics and Genomics
@@ -19,5 +19,5 @@ Our expertise covers:
 * Application of computer vision in plant phenomics
 
 ## Contact us 
-Please find our contacting information by clicking the [contact](https://yanjunzan.github.io/Contact/)
+Please find our contacting information [Here](https://yanjunzan.github.io/Contact/)
 
