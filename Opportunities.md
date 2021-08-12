@@ -4,7 +4,7 @@ title: ""
 ---
 
 ## Join the lab
-We are </b>always<b> looking for talented new group members, from <b>guest project students</b> to <b>Masters, PhD candiates, Postdocs and Lab technicians</b>. Backgrounds vary widely, from <b>molecular biology to mathmatics, statistics, bioinformatics and computer sciences.</b> 
+We are <b>always</b> looking for talented new group members, from <b>guest project students</b> to <b>Masters, PhD candiates, Postdocs and Lab technicians</b>. Backgrounds vary widely, from <b>molecular biology to mathmatics, statistics, bioinformatics and computer sciences.</b> 
   
 We are working on a <b>multidisciplinary</b> filed reqruies constant update of knowledge and skills from all releated subjects, I firmly believe that the <b>future of science and instrutry</b> requires talents <b>tailored around solving a particular problem</b> rather than being expert in a narrow field without knowledge in releated fileds.
 
