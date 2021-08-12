@@ -20,8 +20,8 @@ title: "Our Research"
   
 * Towards a productive and sustainable solution for future agriculture and biodiversity conservation
  
- * Integrating of remote sensing, climate and soil modelling in plant genetics and ecology
- * Predicting the future of natural and artificial population
- * Systemic design of future agriculture and biodiversity
+  * Integrating of remote sensing, climate and soil modelling in plant genetics and ecology
+  * Predicting the future of natural and artificial population
+  * Systemic design of future agriculture and biodiversity
 
 
