@@ -3,7 +3,8 @@ layout: page
 title: "About us"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are a research group at Department of Life Sciences, Sichuan University (SCU) in Chengdu, China. Our mission is to provide a productive and sustainable strategy for future agriculture and biodiversity conservation empowered by recent developments in genetics, genomics, ecology and data science.\
+#Department of Life Sciences, Sichuan University (SCU) in Chengdu, China
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are a research group at . Our mission is to provide a productive and sustainable strategy for future agriculture and biodiversity conservation empowered by recent developments in genetics, genomics, ecology and data science.\
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agriculture and biodiversity conservation sectors are facing increasing threat more than ever from extreme weather conidiations associated with climate change and booming population. Our group is committed to:\
 
