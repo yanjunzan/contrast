@@ -15,9 +15,9 @@ title: ""
              Available in [Github](https://github.com/yanjunzan/TD)
 
 ### Teaching materials
- * A full course in GWAS, GS and multi-omics analysis [Bilibili](https://www.bilibili.com/video/BV1SU4y1W7Y4/)
- * A full tutorial on GWAS in R GenABEL [Bilibili](https://www.bilibili.com/video/BV1fT4y1F7Nf/)
+ * A full course in GWAS, GS and multi-omics analysis [Link to video](https://www.bilibili.com/video/BV1SU4y1W7Y4/)
+ * A full tutorial on GWAS in R GenABEL [Link to video](https://www.bilibili.com/video/BV1fT4y1F7Nf/)
  
 ### Conferernece talks in quantattive genetics
- * Epistasis, genotype by environment intearction and across envrionment complex trait varaition [Bilibili](https://www.bilibili.com/video/BV1Yp4y1h7X8/) 
- * 60-year artificial bi-directional selection and efforts from 3 generation of distinguished scientist [Bilibili](https://www.bilibili.com/video/BV1F84y1F7SC/) 
+ * Epistasis, genotype by environment intearction and across envrionment complex trait varaition [Link to video](https://www.bilibili.com/video/BV1Yp4y1h7X8/) 
+ * 60-year artificial bi-directional selection and efforts from 3 generation of distinguished scientist [Link to video](https://www.bilibili.com/video/BV1F84y1F7SC/) 
