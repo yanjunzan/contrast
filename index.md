@@ -14,7 +14,7 @@ We are a research group at . Our mission is to <b>provide a productive and susta
 * <b>Understanding the interplay between environment, plants (both wild populations and crops) and their impact on future agriculture and biodiversity</b> by studying the genetic regulation and adaptation of adaptive traits (yield, heterosis, photoperiod, draught and heat resistance).  
 * <b>Developing cutting-edge technologies to help implement a productive and sustainable strategy in future agriculture and biodiversity conservation projects</b> by integrating recent advances in genetics, genomics, remote sensing, computer vision and data science.
 
-Read more about our research[here](https://yanjunzan.github.io/Philosophy/)
+Read more about our research [Here](https://yanjunzan.github.io/Philosophy/)
 
 {% if site.show_excerpts %}
   {% include home.html %}
