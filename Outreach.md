@@ -13,10 +13,10 @@ title: ""
 
 # My contributions are 
 
-* I have started to communicate my work and experience in the field through social media [Find the link to video here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
-* Participate outreach events to inspire the next generation [Find the link to video here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
-* Share my experience as a scientist to undergraduates [Find the link to video here](https://www.bilibili.com/video/BV19a411c7Ww/)
-* Advocate science and how general public could contribute a better world [Find the link to video here](https://www.bilibili.com/video/BV1qK4y1U7ph/)
+* I have started to communicate my work and experience in the field through social media [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
+* Participate outreach events to inspire the next generation [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
+* Share my experience as a scientist to undergraduates [Find a link to a serials of videos here](https://www.bilibili.com/video/BV19a411c7Ww/)
+* Advocate science and how general public could contribute a better world [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1qK4y1U7ph/)
 
 
 {% include embed.html url="https://www.bilibili.com/video/BV1uv4y1f7sq/" %}
