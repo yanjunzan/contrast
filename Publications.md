@@ -48,6 +48,25 @@ worldwide chicken population reveal connections between populations and importan
 ### Before 2016
 * Zan Y, Ji Y, Zhang Y, et al. Genome-wide identification, characterization and expression analysis of populus leucine-rich repeat receptor-like protein kinase genes. BMC Genomics, 2013, 14(1): 318 (IF2017-2019=3.6，中科院二区Top).
 
+## Co-author papers
+
+### 2021
+* Chen Z; Zan Y; Milesi P; Zhou L; Chen J; Li L; Cui B; Niu S; Westin J; Karlsson B; García-Gil; Lascoux M; Wu H, Leveraging breeding programs and genomic data in Norway spruce (Picea abies L. Karst) for GWAS analysis, 2021, (Accepted in Genome Biology, IF2017-2019=12.7，中科院一区Top)
+* Wang X; Liu S; Zuo H; Zheng W; Zhang S; Huang Y; Pingcuo G; Ying H; Zhao F; Li Y; Yi T; Zan Y; Larkin M R; Deng X; Zeng X, Xu Q, Genomic basis of high-altitude adaptation in Tibetan Prunus fruit tree, 2021, (Accepted in Current Biology, IF2017-2019=9.3，中科院一区Top)
+* Guo Y, Ou J, Zan Y, et al, Researching on the fine structure and admixture of the
+worldwide chicken population reveal connections between populations and important events in breeding history, Evolutionary Applications. 2021 (IF2017-2019=4.5, 中科院二区)
+* Ji Y, Lehotai N, Zan Y, et al. A fully assembled plastid‐encoded RNA polymerase complex detected in etioplasts and proplastids in Arabidopsis, Physiologia Plantarum. 2021, Mar 435-446. doi: 10.1111/ppl.13256 (IF2017-2019=3.2，中科院二区).
+
+### 2020
+* Yang Y, Zan Y et al. Haplotype Purging After Relaxation of Selection in Lines of Chickens that Had Undergone Long-Term Selection for High and Low Body Weight, Genes, 2020, 11(6), 630 (IF2017-2019=3.4，中科院三区).
+
+### 2019
+* Guo Y, Lillie M, Zan Y, et al. A genomic inference of the White Plymouth Rock genealogy, Poultry science, 2019, pez411, https://doi.org/10.3382/ps/pez411 (IF2017、2019=2.3，中科院二区Top).
+* Zhang T, Gao H, Saana G, Zan Y, et al, Genome-wide association studies reveal candidate genes for fat deposition in tails and body size of Hulun Buir sheep, Journal of Animal Breeding and Genetics, 2019, Sep;136(5):362-370 (IF2017-2019=1.7，中科院二区).
+
+### Before 2019
+* Wang B, Li Z, Xu W, Feng X, Wan Q, Zan Y, et al. Bivariate genomic analysis identifies a hidden locus associated with bacteria hypersensitive response in Arabidopsis thaliana. Scientific Reports, 2017,7:45281 (IF2017-2019=4.0，中科院三区).
+
 ## More about our publications
 
 Please read more about our studies on
