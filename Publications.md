@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Our Publication"
+title: "Our Publications"
 ---
 ## Featured studies
 
