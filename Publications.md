@@ -15,7 +15,7 @@ title: ""
   * <b>Zan Y</b>, et al. A high throughput, cost-efficient library preparation protocol for large-scale next generation sequencing. protocols.io. 2018. DOI = dx.doi.org/10.17504/protocols.io.rt8d6rw.
 
 
-## First/ Shared-first corresponding author papers
+## First, Shared-first or corresponding author papers
 
 ### 2021
 * Bernhardsson C#, <b>Zan Y#</b>, Chen Z, Ingvarsson P, Wu.H, Development and evaluation of a 50K Axiom SNP genotyping array for Norway spruce (Picea abies L. Karst). Molecular Ecology Resources, 2021, 21(3) 880-896(Co-first author, IF2017-2019=6.8，中科院一区Top).
