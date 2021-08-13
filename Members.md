@@ -20,7 +20,7 @@ layout: page
 * 2018.05 – 2019.05: Postdoc in Computational Genomics, Uppsala University, Sweden
 * 2014.01 – 2014.04: Research Assistant, Swedish University of Agricultural Sciences, Sweden
 
-Find more about Zan, Yanjun at[CV](https://github.com/yanjunzan/yanjunzan.github.io/blob/master/assets/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%98%9D%E8%89%B3%E5%90%9B.pdf)
+Find more about Zan, Yanjun [CV](https://github.com/yanjunzan/yanjunzan.github.io/blob/master/assets/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%98%9D%E8%89%B3%E5%90%9B.pdf)
 
 ## Lab Managers 
 
