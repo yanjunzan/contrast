@@ -5,24 +5,24 @@ title: ""
 
 # In my role as a scientist, I see the following aspects as top priorities
 
-* Tranning the next generation sciencist and engineer in the domian of life science 
+* <b>Tranning the next generation scientist</b> and engineer in the domian of life science 
 
-* Engaging the scientific community 
+* <b>Engaging the scientific community</b> by doing community service and solving community problem
 
-* Engaging the society, industry and stakeholders
+* <b>Engaging the society, industry and stakeholders</b> by being avaiable for consultant and actively solving industrial problem
 
-# My contributions are 
+# To make my own contribution to these goals, I have started to 
 
-* I have started to communicate my work and experience in the field through social media [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
-* Participate outreach events to inspire the next generation [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
-* Share my experience as a scientist to undergraduates [Find a link to a serials of videos here](https://www.bilibili.com/video/BV19a411c7Ww/)
-* Advocate science and how general public could contribute a better world [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1qK4y1U7ph/)
+* <b>Communicate my work and experiencein the field through social media </b>  [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
+* <b>Participate outreach events at high shcool and undergraduates level </b> to inspire the next generation scientist [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
+* <b>Share my journey as a scientist to undergraduates</b> who would want to take science as a career  [Find a link to a serials of videos here](https://www.bilibili.com/video/BV19a411c7Ww/)
+* <b>Advocate science and how general public could contribute to a better world</b> [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1qK4y1U7ph/)
 
 
 {% include embed.html url="https://www.bilibili.com/video/BV1uv4y1f7sq/" %}
 
 
-# My vision for group dynamics
+# As a group leader, my vision for group dynamics are
 
 ## Safety first
 Your health and safety are more important than your research. In the event that you will be doing lab work, please adhere to the lab safety codes established by the Department. Try to avoid working in the lab by yourself if you are doing potentially dangerous things like extractions etc. The same goes for field work, always have a companion along for any field work in the event that something would happen.
