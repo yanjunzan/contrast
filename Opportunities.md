@@ -8,7 +8,9 @@ We are <b>always</b> looking for talented new group members, from <b>guest proje
   
 We are working on a <b>multidisciplinary</b> filed reqruies constant update of knowledge and skills from all releated subjects, I firmly believe that the <b>future of academia and industry</b> requires talents <b>tailored around solving a particular problem</b> rather than being an expert in a narrow field.
 
-Therefore, I personally <b>do not</b> require new lab members to know everything before they join our lab but rather expect everyone to <b>be prepared to learn the necessary knowledge and skills </b>to collect, analyse and interpret their own data, and eventually <b>become a well-trained scientist or industry partner</b> at the end of their journey in our lab. <b>Passion</b> about the scienfic problem that we are adressing and <b>courage</b> to step out of their comfort zone, <b>willness to challange </b>themself with new ideas and skills, <b>respectfulness to colleagues</b> are four key characters that we value the most. 
+Therefore, I personally <b>do not</b> require new lab members to know everything before they join our lab but rather expect everyone to <b>be prepared to learn the necessary knowledge and skills </b>to collect, analyse and interpret their own data, and eventually <b>become a well-trained scientist or industry partner</b> at the end of their journey in our lab. 
+
+<b>Passion</b> about the scienfic problem that we are adressing and <b>courage</b> to step out of their comfort zone, <b>willness to challange </b>themself with new ideas and skills, <b>respectfulness to colleagues</b> are four key characters that we value the most. 
 
 ## Collaborating with us
 
@@ -21,5 +23,5 @@ Our expertise covers:
 * Application of computer vision in plant phenomics
 
 ## Contact us 
-Please find our contacting information [Here](https://yanjunzan.github.io/Contact/)
+Please find our contact information [Here](https://yanjunzan.github.io/Contact/)
 
