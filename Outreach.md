@@ -5,7 +5,7 @@ title: ""
 
 # In my role as a scientist, I see the following aspects as top priorities
 
-* <b>Tranning the next generation scientist</b> and engineer in the domian of life science 
+* <b>Tranning the next generation scientist and engineer</b> in the domian of life science 
 
 * <b>Engaging the scientific community</b> by doing community service and solving community problem
 
