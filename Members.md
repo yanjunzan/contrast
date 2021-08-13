@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Our Crew"
 permalink: "/about/"
 layout: page
 ---
