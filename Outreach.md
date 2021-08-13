@@ -11,7 +11,7 @@ title: ""
 
 * <b>Engaging the society, industry and stakeholders</b> by being avaiable for consultant and actively solving industrial problem
 
-# To make my own contribution to these goals, I have started to 
+# I have started to 
 
 * <b>Communicate my work and experiencein the field through social media </b>  [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
 * <b>Participate outreach events at high shcool and undergraduates level </b> to inspire the next generation scientist [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1uv4y1f7sq/)
