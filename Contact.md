@@ -1,10 +1,11 @@
 ---
 layout: page
-title: ""
+title: "Contact Us"
 ---
 
-## Mailing address
+## Visiting address
 Our Lab is affiliated at xxx
+
 ## Email
 
 yanjunzan@gmail.com
