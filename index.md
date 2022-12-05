@@ -3,11 +3,11 @@ layout: page
 title: "About us"
 ---
 {% comment %} 
-    Tobacco Research Institute, China Agriculture Science Academy, Qingdao, China
+    Tobacco Research Institute, Chinese Academy of Agriculture Science, Qingdao, China
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {% endcomment %}
 
-We are a plant computational biology research group affiliated at Tobacco Research Institute, China Agriculture Science Academy, Qingdao, China. Our mission is to <b> provide a productive and sustainable strategy</b> for future <b>agriculture production and biodiversity conservation</b> empowered by recent developments in genetics, genomics, ecology and data science.
+We are a plant computational biology research group affiliated at Tobacco Research Institute, Chinese Academy of Agriculture Science, Qingdao, China. Our mission is to <b> provide a productive and sustainable strategy</b> for future <b>agriculture production and biodiversity conservation</b> empowered by recent developments in genetics, genomics, ecology and data science.
 
 Our group is committed to:
 
