@@ -2,10 +2,7 @@
 title:  "Complex trait genetics webpage is online"
 mathjax: true
 layout: post
-categories: media
 ---
-
-![Test](/assets/Untitled.001.jpeg)
 
 ## 中国农业科学院烟草所育种中心昝艳君课题组诚邀博士后、科研助理共同发展
 
