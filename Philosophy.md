@@ -2,13 +2,14 @@
 layout: page
 title: "Our Research"
 ---
-<b> Currently, we are working on a variety of crops (Rice, Maize, Barley) and model plant species (Arabidopsis thaliana, Populus and Spruce) with particular focus on:</b> 
+<b> Currently, we are working on a variety of crops (Tobacco, Maize) and model plant species (Arabidopsis thaliana, wild Nicotiana plants) with particular focus on:</b> 
 
 * Evolution and adaptation of complex traits in response to natural and artificial selection
 
   * Genetic architecture of complex traits
   * Impact of environment on complex traits variation and evolution
   * Molecular basis underlying complex traits
+  * Predictive models for various breeding setup
 
 
 * Development of wet-lab protocol and computational methods 
