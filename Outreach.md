@@ -19,9 +19,6 @@ title: "Science For A Better Future"
 * <b>Advocate science and how general public could contribute to a better world</b> [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1qK4y1U7ph/)
 
 
-{% include embed.html url="https://www.bilibili.com/video/BV1uv4y1f7sq/" %}
-
-
 # As a group leader, my vision for group dynamics are
 
 ## Safety first
