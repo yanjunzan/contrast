@@ -18,7 +18,6 @@ title: "Science For A Better Future"
 * <b>Share my journey as a scientist to undergraduates</b> who would want to take science as a career  [Find a link to a serials of videos here](https://www.bilibili.com/video/BV19a411c7Ww/)
 * <b>Advocate science and how general public could contribute to a better world</b> [Find a link to a serials of videos here](https://www.bilibili.com/video/BV1qK4y1U7ph/)
 
-
 # As a group leader, my vision for group dynamics are
 
 ## Safety first
