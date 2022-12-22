@@ -16,10 +16,26 @@ title: "Our Publications"
 
 
 ## First, Shared-first or corresponding author papers
+### 2022
+* Kang M, Wu H, Liu W, Zhu M, Han Y, Liu W, Chen C, Yin K, Zhao Y, Yan Z, Liu H, Lou S*, <b>Zan Y*</b>, Liu J*, (2022)  The pan-genome and local adaptation of Arabidopsis thaliana, **bioRxiv**, 2022/1/1, https://doi.org/10.1101/2022.12.18.520013 (Submitted, Co-corresponding author)
+
+* M Jin, H Liu, X Liu, T Guo, J Guo, Y Yin, Y Ji, Z Li, J Zhang, X Wang, Qiao F, Xiao Y, **Zan Y***, Yan J*, (2022) Complex genetic architecture underlying the plasticity of maize agronomic traits(**Accepted in Plant communication**, Co-corresponding author)
+
+* Zhou Y#, Zhang Z#, Bao Z#, Li H, Lyu Y, <b>Zan Y</b>, Wu Y, Cheng L, Fang Y, Wu K, Zhang J, Lv H, Lin T, Gao Q, Saha S, Xu S, Zhang Z, Fei Z, Mueller L, Städler T, Speed D, Huang S, Graph pangenome captures missing heritability and empowers tomato breeding. (2022) **Nature**, 606, 527–534.
+
+* Niu, S., Li, J., Bo, W., Yang, W., Zuccolo, A., Giacomello, S., Chen, X., Han, F., Yang, J., Song, Y., Nie, Y., Zhou, B., Wang, P., Zuo, Q., Zhang, H., Ma, J., Wang, J., Wang, L., Zhu, Q., Zhao, H., Liu, Z., Zhang, X., Liu, T., Pei, S., Li, Z., Hu, Y., Yang, Y., Li, W., <b>Zan, Y</b>., Zhou, L., Lin, J., Yuan, T., Li, Wei, H.,  & Wu, H. X. (2022). The Chinese pine genome and methylome unveil key features of conifer evolution. **Cell**, 185(1), 204-217.e14. 
+
+* Rönneburg T, <b>Zan Y</b>, Honaker CF, Siegel PB, Carlborg Ö (2022) Low-coverage sequencing in a deep intercross of the Virginia body weight lines provides insight to the polygenic genetic architecture of growth: novel loci revealed by increased power and improved genome-coverage, **Poultry Science**, 102203
+
+* ZQ Chen, <b>Y Zan</b>, L Zhou, B Karlsson, H Tuominen, MR García-Gil, HX Wu, 2022,Genetic architecture behind developmental and seasonal control of tree growth and wood properties in Norway spruce, **Front Plant Sci**. 2022; 13: 927673.
 
 ### 2021
 * Bernhardsson C#, <b>Zan Y#</b>, Chen Z, Ingvarsson P, Wu.H, Development and evaluation of a 50K Axiom SNP genotyping array for Norway spruce (Picea abies L. Karst). Molecular Ecology Resources, 2021, 21(3) 880-896(Co-first author, IF2017-2019=6.8，中科院一区Top).
+* Chen, Z. Q., <b>Zan, Y**., Milesi, P., Zhou, L., Chen, J., Li, L., Cui, B. Bin, Niu, S., Westin, J., Karlsson, B., García-Gil, M. R., Lascoux, M., & Wu, H. X. (2021). Leveraging breeding programs and genomic data in Norway spruce (Picea abies L. Karst) for GWAS analysis. **Genome Biology**. https://doi.org/10.1186/s13059-021-02392-1
 
+* Guo, Ying, Ou, J.,  <b>Zan, Y</b>, Wang, Y., Li, H., Zhu, C., Chen, K., Zhou, X., Hu, X., & Carlborg, Ö. (2021). Researching on the fine structure and admixture of the worldwide chicken population reveal connections between populations and important events in breeding history. **Evolutionary Application**s, eva.13241. https://doi.org/10.1111/eva.13241
+* Ji, Y., Lehotai, N.,  <b>Zan, Y</b>, Dubreuil, C., Díaz, M. G., & Strand, Å. (2021). A fully assembled plastid‐encoded RNApolymerase complex detected in etioplasts and proplastids in Arabidopsis.** Physiologia Plantarum**, 171(3), 435–446. https://doi.org/10.1111/ppl.13256
+* Wang, X., Liu, S., Zuo, H., Zheng, W., Zhang, S., Huang, Y., Pingcuo, G., Ying, H., Zhao, F., Li, Y., Liu, J., Yi, T. S.,  <b>Zan, Y</b>, Larkin, R. M., Deng, X., Zeng, X., & Xu, Q. (2021). Genomic basis of high-altitude adaptation in Tibetan Prunus fruit trees. **Current Biology**. https://doi.org/10.1016/j.cub.2021.06.062
 
 ### 2020
 * <b>Zan Y*</b>, Carlborg Ö. Dissecting the Genetic Regulation of Yeast Growth Plasticity in Response to Environmental Changes, Genes, 2020, 11(11), 1279 (First and corresponding author, IF2017-2019=3.4，中科院三区).
