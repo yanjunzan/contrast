@@ -2,6 +2,9 @@
 layout: page
 title: ""
 ---
+## Postdoc and research asistant wanted
+
+We have several postdoc and research asistant position avaiable  [Here](https://yanjunzan.github.io/Complex-trait-genetics-webpage-is-online/)
 
 ## Join the lab
 We are <b>always</b> looking for talented new group members, from <b>guest project students</b> to <b>Masters, PhD candiates, Postdocs and Lab technicians</b>. Backgrounds vary widely, from <b>molecular biology to mathmatics, statistics, bioinformatics and computer sciences.</b> 
