@@ -67,7 +67,7 @@ layout: post
 
 # 课题组已发表文章
 * 2022
-Kang M, Wu H, Liu W, Zhu M, Han Y, Liu W, Chen C, Yin K, Zhao Y, Yan Z, Liu H, Lou S*, Zan Y*, Liu J*, (2022) The pan-genome and local adaptation of Arabidopsis thaliana, bioRxiv, 2022/1/1, https://doi.org/10.1101/2022.12.18.520013 (Submitted, Co-corresponding author)
+- Kang M, Wu H, Liu W, Zhu M, Han Y, Liu W, Chen C, Yin K, Zhao Y, Yan Z, Liu H, Lou S*, Zan Y*, Liu J*, (2022) The pan-genome and local adaptation of Arabidopsis thaliana, bioRxiv, 2022/1/1, https://doi.org/10.1101/2022.12.18.520013 (Submitted, Co-corresponding author)
 M Jin, H Liu, X Liu, T Guo, J Guo, Y Yin, Y Ji, Z Li, J Zhang, X Wang, Qiao F, Xiao Y, Zan Y*, Yan J*, (2022) Complex genetic architecture underlying the plasticity of maize agronomic traits(Accepted in Plant communication, Co-corresponding author)
 Zhou Y#, Zhang Z#, Bao Z#, Li H, Lyu Y, Zan Y, Wu Y, Cheng L, Fang Y, Wu K, Zhang J, Lv H, Lin T, Gao Q, Saha S, Xu S, Zhang Z, Fei Z, Mueller L, Städler T, Speed D, Huang S, Graph pangenome captures missing heritability and empowers tomato breeding. (2022) Nature, 606, 527–534.
 Niu, S., Li, J., Bo, W., Yang, W., Zuccolo, A., Giacomello, S., Chen, X., Han, F., Yang, J., Song, Y., Nie, Y., Zhou, B., Wang, P., Zuo, Q., Zhang, H., Ma, J., Wang, J., Wang, L., Zhu, Q., Zhao, H., Liu, Z., Zhang, X., Liu, T., Pei, S., Li, Z., Hu, Y., Yang, Y., Li, W., Zan, Y., Zhou, L., Lin, J., Yuan, T., Li, Wei, H., & Wu, H. X. (2022). The Chinese pine genome and methylome unveil key features of conifer evolution. Cell, 185(1), 204-217.e14.
