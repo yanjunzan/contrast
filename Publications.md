@@ -17,10 +17,15 @@ title: "Our Publications"
 
 
 ## Publication list
+
+### 2023
+
+*  <b>Zan, Y.</b>, Chen, S., Ren, M., Liu, G., Liu, Y., Si, H., Liu, Z., Liu, D., Zhang, X., Tong, Y., Li, Y., Jiang, C., Wen, L., Xiao, Z., Sun, Y., Geng, R., Feng, Q., Wang, Y., Chen, Y., … Yang, A. (2023). GenBank genomics highlight the genomic features, genetic diversity and regulation of morphological, metabolic and disease-resistance traits in Nicotiana tabacum. BioRxiv, 2023.02.21.529366. 
+
+* Jin, M., Liu, H., Liu, X., Guo, T., Guo, J., Yin, Y., Ji, Y., Li, Z., Zhang, J., Wang, X., Qiao, F., Xiao, Y., <b>Zan, Y. #</b>, & Yan, J#. (2023). Complex genetic architecture underlying the plasticity of maize agronomic traits. Plant Communications, 100473. https://doi.org/10.1016/j.xplc.2022.100473 (Co-corresponding author)
+
 ### 2022
 * Kang M, Wu H, Liu W, Zhu M, Han Y, Liu W, Chen C, Yin K, Zhao Y, Yan Z, Liu H, Lou S*, <b>Zan Y*</b>, Liu J*, (2022)  The pan-genome and local adaptation of Arabidopsis thaliana, **bioRxiv**, 2022/1/1, https://doi.org/10.1101/2022.12.18.520013 (Submitted, Co-corresponding author)
-
-* M Jin, H Liu, X Liu, T Guo, J Guo, Y Yin, Y Ji, Z Li, J Zhang, X Wang, Qiao F, Xiao Y, **Zan Y***, Yan J*, (2022) Complex genetic architecture underlying the plasticity of maize agronomic traits(**Accepted in Plant communication**, Co-corresponding author)
 
 * Zhou Y#, Zhang Z#, Bao Z#, Li H, Lyu Y, <b>Zan Y</b>, Wu Y, Cheng L, Fang Y, Wu K, Zhang J, Lv H, Lin T, Gao Q, Saha S, Xu S, Zhang Z, Fei Z, Mueller L, Städler T, Speed D, Huang S, Graph pangenome captures missing heritability and empowers tomato breeding. (2022) **Nature**, 606, 527–534.
 
