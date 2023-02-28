@@ -5,7 +5,7 @@ title: "Our contribution to the community"
 
 ### Information on how to order seeds from a tobacco diversity panel presented in our recent manuscript.
 
- * In a recent manuscript [Manuscript on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.21.529366v1.abstract),we assembled the allotetraploid nicotiana tabacum, genotype and phenotyped an entire GenBank. Results from our study will likely accelerate aspects of tobacco research that were previously hindered by the complexity of the polyploid genome and a lack of publicity for research driven by the private sector, with benefits in plant functional genomics, crop improvement research, and the production of biopharmaceutical compounds and biofuel. To make this resource available to the community, we selected 310 accessions cover the majority of the genetic and phenotypic diversity, and have made the seeds of these accessions available from ordering. Our intention is for this collection to remain actively curated as ever more genomic data are produced and a wide range of phenotypic data are generated.
+ * In a recent manuscript [Manuscript on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.21.529366v1.abstract), we assembled the allotetraploid nicotiana tabacum, genotype and phenotyped an entire GenBank. Results from our study will likely accelerate aspects of tobacco research that were previously hindered by the complexity of the polyploid genome and a lack of publicity for research driven by the private sector, with benefits in plant functional genomics, crop improvement research, and the production of biopharmaceutical compounds and biofuel. To make this resource available to the community, we selected 310 accessions cover the majority of the genetic and phenotypic diversity, and have made the seeds of these accessions available from ordering. Our intention is for this collection to remain actively curated as ever more genomic data are produced and a wide range of phenotypic data are generated.
 
 ### General information
 * The list of accession, their genotype and phenotype are available from supplements of recent our manuscript. 
@@ -16,9 +16,10 @@ title: "Our contribution to the community"
 
 ### Ordering information:
 Please drop an email to zanyanjun@caas.cn with a short description of:
-1. You mailing address 
+1. Your mailing address 
 2. An import permit for plant seeds from your country 
 3. How you would intend to use the seeds
+
 Normally, we will resopnd to your request within 10 working days with detailed insturctuions on how to proceed. 
 
 ### Wet-lab Protocal
