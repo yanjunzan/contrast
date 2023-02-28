@@ -15,10 +15,10 @@ title: "Our contribution to the community"
 * Cost of Postage is not covered in the seed fee.
 
 ### Ordering information:
-Please drop an email to zanyanjun@caas.cn with a short description of:
+Please drop an email to zanyanjun@caas.cn with the following information :
 1. Your mailing address 
 2. An import permit for plant seeds from your country 
-3. How you would intend to use the seeds
+3. A short description of how you will use the seeds
 
 Normally, we will resopnd to your request within 10 working days with detailed insturctuions on how to proceed. 
 
