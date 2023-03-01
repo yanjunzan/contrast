@@ -20,7 +20,7 @@ Please drop an email to zanyanjun@caas.cn with the following information :
 2. An import permit for plant seeds from your country 
 3. A short description of how you will use the seeds
 
-Normally, we will resopnd to your request within 10 working days with detailed insturctuions on how to proceed. 
+Normally, we will resopnd to your request within 10 working days with detailed instruction on how to proceed. 
 
 ### Wet-lab Protocal
  * Zan Y et al. A high throughput, cost-efficient library preparation protocol for large-scale next generation sequencing. protocols.io. 2018. DOI = dx.doi.org/10.17504/protocols.io.rt8d6rw.
