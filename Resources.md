@@ -11,7 +11,7 @@ title: "Our contribution to the community"
 * The list of accession, their genotype and phenotype are available from supplements of recent our manuscript. 
 * The seeds were packed in plastic bags one accession per bag, and each bag contains roughly 100 seeds.
 * Each bag comes with a cost of 50 Euro to cover operational cost at our side. 
-* A packed order for 310 accession is 2000 Euro. 
+* A packed order for 310 accession is 5000 Euro. 
 * Cost of Postage is not covered in the seed fee.
 
 ### Ordering information:
