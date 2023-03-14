@@ -5,14 +5,14 @@ title: "Our contribution to the community"
 
 ### Information on how to order seeds from a tobacco diversity panel presented in our recent manuscript.
 
- * In a recent manuscript [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.21.529366v2), we assembled the allotetraploid nicotiana tabacum, genotype and phenotyped an entire GenBank. Results from our study will likely accelerate aspects of tobacco research that were previously hindered by the complexity of the polyploid genome and a lack of publicity for research driven by the private sector, with benefits in plant functional genomics, crop improvement research, and the production of biopharmaceutical compounds and biofuel. To make this resource available to the community, we selected 310 accessions cover the majority of the genetic and phenotypic diversity, and have made the seeds of these accessions available from ordering. Our intention is for this collection to remain actively curated as ever more genomic data are produced and a wide range of phenotypic data are generated.
+ * In a recent manuscript [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.21.529366v2), we assembled the allotetraploid nicotiana tabacum, genotype and phenotyped an entire GenBank. Results from our study will likely accelerate aspects of tobacco research that were previously hindered by the complexity of the polyploid genome and a lack of publicity for research driven by the private sector, with benefits in plant functional genomics, crop improvement research, and the production of biopharmaceutical compounds and biofuel. To make this resource available to the community, we selected 310 accessions covering the majority of the genetic and phenotypic diversity, and have made the seeds of these accessions available for ordering. Our intention is for this collection to remain actively curated as ever more genomic data are produced and a wide range of phenotypic data are generated.
 
 ### General information
 * The list of accession, their genotype and phenotype are available from supplements of recent our manuscript. 
 * The seeds were packed in plastic bags one accession per bag, and each bag contains roughly 100 seeds.
-* Each bag comes with a cost of 50 Euro to cover operational cost at our side. 
+* Each bag comes with a cost of 25 Euro to cover operational cost at our side. 
 * A packed order for 310 accession is 5000 Euro. 
-* Cost of Postage is not covered in the seed fee.
+* Cost of Postage is not covered.
 
 ### Ordering information:
 Please drop an email to zanyanjun@caas.cn with the following information :
