@@ -13,6 +13,7 @@ title: "Our contribution to the community"
 * Each bag comes with a cost of 25 Euro to cover operational cost at our side. 
 * A packed order for 310 accession is 5000 Euro. 
 * Cost of Postage is not covered.
+* For research only, commericial use is strictily prohibited. 
 
 ### Ordering information:
 Please drop an email to zanyanjun@caas.cn with the following information :
