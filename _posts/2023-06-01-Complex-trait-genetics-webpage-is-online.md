@@ -1,5 +1,5 @@
 ---
-title:  "Postdoc and Research Assistant Positions Available"
+title:  "Postdoc and Research Asistant Positions Available"
 mathjax: true
 layout: post
 ---
