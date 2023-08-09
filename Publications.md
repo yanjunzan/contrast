@@ -19,7 +19,7 @@ title: "Our Publications"
 ## Publication list
 
 ### 2023
-
+*  Ji Y,  Han Y, Dai Y, Hao F, Feng X, Chen Q, Hao R, Chen Z, Zhao W, Zhang W, Si H, <b>Zan, Y.</b> , Polygenic basis of strong and rapid flowering time response to environment perturbations in wild Arabidopsis thaliana population, **bioRxiv**,2023,07,https://www.biorxiv.org/content/10.1101/2023.07.02.547444v1.abstract
 *  <b>Zan, Y.</b>, Chen, S., Ren, M., Liu, G., Liu, Y., Si, H., Liu, Z., Liu, D., Zhang, X., Tong, Y., Li, Y., Jiang, C., Wen, L., Xiao, Z., Sun, Y., Geng, R., Feng, Q., Wang, Y., Chen, Y., … Yang, A. (2023). GeneBank genomics highlight the genomic features, genetic diversity and regulation of morphological, metabolic and disease-resistance traits in Nicotiana tabacum. BioRxiv, 2023.02.21.529366. 
 
 * Jin, M., Liu, H., Liu, X., Guo, T., Guo, J., Yin, Y., Ji, Y., Li, Z., Zhang, J., Wang, X., Qiao, F., Xiao, Y., <b>Zan, Y. #</b>, & Yan, J#. (2023). Complex genetic architecture underlying the plasticity of maize agronomic traits. Plant Communications, 100473. https://doi.org/10.1016/j.xplc.2022.100473 (Co-corresponding author)
