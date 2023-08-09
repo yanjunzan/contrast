@@ -5,7 +5,7 @@ title: "Our Publications"
 ## Featured studies
 
 * Complex trait genetics
-  * M Jin, H Liu, X Liu, T Guo, J Guo, Y Yin, Y Ji, Z Li, J Zhang, X Wang, Qiao F, Xiao Y, <b>Zan Y</b>, Yan J, (2023) Complex genetic architecture underlying the plasticity of maize agronomic traits, 100473.
+  * Jin, M., Liu, H., Liu, X., Guo, T., Guo, J., Yin, Y., Ji, Y., Li, Z., Zhang, J., Wang, X., Qiao, F., Xiao, Y., <b>Zan, Y. #</b>, & Yan, J#. (2023). Complex genetic architecture underlying the plasticity of maize agronomic traits. Plant Communications, 100473. https://doi.org/10.1016/j.xplc.2022.100473 (Co-corresponding author)
   * <b>Zan Y*</b>, Carlborg Ö. Dynamic genetic architecture of yeast response to environmental perturbation shed light on origin of cryptic genetic variation. PLoS Genet, 2020, 16(5): e1008801 (First and corresponding author).
   * <b>Zan Y</b>, Carlborg Ö. A polygenic genetic architecture of flowering time in the worldwide Arabidopsis thaliana population. Molecular Biology and Evolution, 2019, 36 (1), 141-154 .
   * <b>Zan Y#</b>, Sheng Z#, Lillie M et al. Artificial selection response due to polygenic adaptation from a multilocus, multiallelic genetic architecture. Molecular Biology and Evolution, 2017, 2, 7–10 (Co-first author).
